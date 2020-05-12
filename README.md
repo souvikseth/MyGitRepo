@@ -1,1 +1,2 @@
 # MyGitRepo
+GitHub tutorial purpose
