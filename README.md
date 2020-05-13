@@ -1,2 +1,2 @@
 # MyGitRepo
-GitHub tutorial purpose
+GitHub tutorial purpose document
